@@ -1,0 +1,148 @@
+\chapter{INTRODUCTION}
+\label{ch:intro}
+
+
+
+% \section{Research Background}
+% \label{sec:intro-bg}
+% Section~\ref{sec:intro-bg} on page~\pageref{sec:intro-bg}. The data is on Appendix~\ref{app:data} on page~\pageref{app:data}. Chapter~\ref{ch:litreview}. Section~\ref{sec:intro-bg} Chapter~\ref{ch:conclusion}. Appendix~\ref{app:coding} on \pageref{app:coding}. Appendix~\ref{app:data} on \pageref{app:data}. Theorem~\ref{tm:great}
+
+% \lipsum[3-4]
+
+% \section{Problem Statement}
+
+% \begin{theorem}\label{tm:great}
+%     A great theorem with no name.
+% \end{theorem}
+
+% \begin{theorem}[The great theorem]
+%     \label{tm:moregreat}
+%     The great theorem.
+% \end{theorem}
+
+% \begin{proof}
+% This is the proof for \ref{tm:moregreat}.
+% \end{proof}
+
+% And a consequence of theorem \ref{tm:moregreat} is the statement in the next 
+% corollary.
+
+% \begin{corollary}
+% The corollary $\ldots$.
+% \end{corollary}
+
+% \begin{lemma}
+% A lemma. The number follows theorem.
+% \end{lemma}
+
+% \begin{remark}
+% This is a remark. It's true.
+% \end{remark}
+
+% \begin{example}
+% This is an example.
+% \end{example}
+
+% \begin{solution}
+% The solution
+% \end{solution}
+
+% \section{Research Objectives}
+% The objective is 
+
+% This is a new paragraph.
+
+
+% \section{Research Questions}
+
+% \section{Significance of Study}
+
+% \section{Limitations}
+
+% \section{Scope of Study}
+
+% \section{Definitions of Terms}
+% (subject to discipline of study)
+
+% \begin{table}[ht]
+%     \caption{Length Units Again}
+%     \begin{tabular}{cc}
+%         \toprule %header
+%         \textbf{Millimeters} & \textbf{Centimeters}\\
+%         \textbf{mm}          &   \textbf{cm}\\
+%         \midrule
+%         1           &   0.1\\ \hline
+%         10          &   1\\ \hline
+%         100         &   10\\ \hline
+%         1000        &   100\\ \hline
+%         10000       &   1000\\
+%         \bottomrule
+%     \end{tabular}
+%     \par\raggedright Note: This table is useful for $\ldots$.
+%     \label{table:lengthunitsa}
+% \end{table}
+
+\section{Background of Study}
+Dyslexia, a common learning disorder, has a profound impact on an individual's life, particularly in the context of writing and reading. Studies reveal that its prevalence is estimated to be from as low as 5.37\% \parencite{Ashraf2011PrevalenceOD}, to as high as 17.6\% \parencite{Aboudan2011DyslexiaIT}. However, these numbers may not fully capture the scope of this issue, as many cases remain undiagnosed due to the subtlety and variance of symptoms.
+
+One of the key challenges faced by individuals with dyslexia is difficulty with written expression. This manifests as problems in spelling accuracy, handwriting legibility, and the speed of writing, all of which contribute to the overall impact on the quality of education and work life. It is not uncommon for these struggles to lead to reduced confidence and self-esteem, compounding the challenges faced.
+
+However, dyslexia are not a determinant of intellectual capability. There are many successful individuals who have been diagnosed with this disorder, demonstrating that with the right tools and strategies, the impact can be managed effectively. These individuals include Steven Spielberg, known for his work on “Jurassic Park”, Richard Branson, one of the most successful businessmen in the world with Virgin Group at his helm, and most significantly Steve Jobs, founder of Apple, where his contributions have paved the way for leaps of advancements in computing technology. The importance of early and accurate detection cannot be overstated, as it paves the way for appropriate intervention strategies and accommodations, which are instrumental in enabling individuals to reach their full potential.
+
+In recent years, advancements in technology, particularly machine learning, offer promising new avenues for dyslexia detection. ML models can analyze and learn from patterns that may be too complex or subtle for human detection. In the context of dyslexia, these models can be trained to detect patterns in dyslexic handwriting that could indicate a diagnosis. This could potentially provide a more accessible, less invasive, and cost-effective tool for early detection.
+
+In conclusion, the integration of ML in dyslexia detection presents a powerful opportunity to enhance the lives of those affected by dyslexia. This study aims to explore the potential of machine learning in detecting dyslexic handwriting and how it can be utilized to support individuals with this disorder.
+
+\section{Problem Statement}
+Dyslexia, affecting 5\% to 17\% of the population \parencite{Ramli2020}, is a common learning difficulty that impairs an individual's ability to read, write, and spell. Current dyslexia detection methods are time-consuming, expensive, and require specialized personnel, limiting accessibility. 
+
+The aim of this study is to explore the use of machine learning techniques for the early and accurate detection of dyslexic handwriting. By investigating various feature extraction and classification algorithms, the study seeks to identify the most effective approach for distinguishing dyslexic handwriting from non-dyslexic handwriting. 
+
+The study's outcomes could significantly contribute to earlier interventions and advance the integration of machine learning in healthcare, leading to the development of more sophisticated diagnostic tools.
+
+
+\newpage
+\section{Research Questions}
+\noindent The research questions are as follows:
+\begin{itemize}
+    \item How do we differentiate between dyslexic and non-dyslexic handwriting?
+    \item How to create a machine learning model that can identify dyslexic and non-dyslexic handwriting?
+    \item How do we view the performances of the machine learning model?
+\end{itemize}
+
+\section{Research Objectives}
+\noindent The objectives of this research are as follows:
+\begin{itemize}
+    \item To identify the features of dyslexia handwriting in images.
+    \item To develop a machine learning model that distinguishes dyslexic or non-dyslexic samples.
+    \item To evaluate the performance of the machine learning model.
+\end{itemize}
+
+
+\newpage
+\section{Scope of Study}
+This study centers on the development of a dyslexic handwriting detection model by leveraging machine learning techniques. We will focus on both supervised and unsupervised learning techniques, exploring algorithms such as artificial neural network, convoluted neural network and recurring neural network to build and optimize the model.
+
+The research will use a dataset of handwriting samples, obtained from Kaggle \parencite{Isa_2022_Kaggle}, which contains samples of handwriting images from individuals diagnosed with dyslexia and those without the disorder.
+
+An integral part of the research's scope is to delve into various feature extraction methods that effectively highlight the distinguishing features of dyslexic handwriting. Further, we aim to test the efficacy of different classification algorithms in accurately segregating dyslexic handwriting from non-dyslexic handwriting.
+
+The proposed model's performance will be rigorously evaluated using standard evaluation metrics. We will measure the accuracy, precision, recall, and F1 score of the model and compare the results with existing methods, if any, to determine the relative effectiveness of our approach.
+
+\newpage
+\section{Significance of Research}
+\noindent The significance of the research falls in these aspects:
+\subsection{Early Identification}
+Dyslexia's impact reaches far beyond academic performance; it also significantly influences individuals' self-esteem and mental health. Early identification of dyslexia is crucial as it allows for the implementation of targeted educational strategies and accommodations. This early intervention can help mitigate some of the challenges dyslexic individuals face, enabling them to better realize their potential. It can also alleviate some of the psychological stress associated with the condition, as understanding the root cause of their difficulties can provide a sense of relief and pave the way for the development of coping strategies.
+
+\subsection{Reliable and Cost-Effective Screening}
+Currently, dyslexia screening processes can be time-consuming, expensive, and require specialized personnel to conduct and interpret assessments. This makes it particularly challenging in resource-limited settings. A machine learning model that can accurately detect dyslexia through handwriting analysis has the potential to offer a more reliable, accessible, and cost-effective means of screening large populations for dyslexia. It could be particularly impactful in under-resourced areas where access to specialists is limited, ensuring that more individuals receive the support they need.
+
+\subsection{Assisting Educators and Clinicians}
+The model's ability to accurately identify dyslexic handwriting could serve as a powerful tool for educators and clinicians. It could assist in pinpointing students or patients who might be struggling due to undiagnosed dyslexia, facilitating early and targeted support. Furthermore, this tool could aid in tracking the progress of individuals with dyslexia over time, offering insights into the effectiveness of interventions and allowing for necessary adjustments.
+
+\subsection{Contributing to Knowledge}
+This research stands at the intersection of technology and healthcare, more specifically the application of machine learning in dyslexia detection. By exploring how machine learning techniques can be employed to detect dyslexic handwriting, this study will contribute significantly to the existing body of knowledge in both fields. It will add new dimensions to our understanding of dyslexia, and how technology can be harnessed to aid in its diagnosis and management. Furthermore, the methodologies and findings of this research could potentially be applied to other learning disorders, widening its scope and significance.
+
+\section{Summary}
+To summarize, this chapter provides an initial overview of the research, and heavily emphasizes on the domains and the techniques that will be implemented in the study. The problem statement taps into the issue, which leads to the research questions. The research too finds its scope of study that leads towards its significance.

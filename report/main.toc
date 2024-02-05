@@ -1,0 +1,90 @@
+\changetocdepth {3}
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{SUPERVISOR'S APPROVAL}{i}{chapter*.1}%
+\contentsline {chapter}{AUTHOR'S DECLARATION}{ii}{chapter*.2}%
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.3}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{iv}{chapter*.4}%
+\contentsline {chapter}{TABLE OF CONTENTS}{v}{section*.5}%
+\contentsline {chapter}{LIST OF TABLES}{ix}{section*.6}%
+\contentsline {chapter}{LIST OF FIGURES}{x}{section*.7}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{chapter*.8}%
+\vspace {1.7cm}
+\contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background of Study}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Questions}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Research Objectives}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Scope of Study}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Significance of Research}{5}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Early Identification}{5}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Reliable and Cost-Effective Screening}{5}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Assisting Educators and Clinicians}{5}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Contributing to Knowledge}{6}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1.7}Summary}{6}{section.1.7}%
+\contentsline {chapter}{\chapternumberline {2}LITERATURE REVIEW}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Dyslexia}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Definition and Prevalence}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Causes and Risk Factors}{7}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Characteristics}{9}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Impact on Writing and Handwriting}{9}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Current Diagnostic Methods}{10}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Interventions and Treatments}{11}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Challenges and Limitations of Current Practices}{12}{subsection.2.1.7}%
+\contentsline {section}{\numberline {2.2}Machine Learning}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Definition and Overview}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Applications}{14}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Machine Learning in Healthcare}{15}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Feature Extraction and Selection}{16}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Machine Learning Algorithms}{17}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Performance Evaluation}{18}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Limitations and Challenges}{19}{subsection.2.2.7}%
+\contentsline {section}{\numberline {2.3}LeNet-5}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Related Works}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Existing Research}{21}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Data Used in Previous Studies}{22}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Feature Extraction in Handwriting Analysis}{23}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Techniques, Performance and Findings}{24}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Challenges and Limitations}{26}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Future Directions and Opportunities}{27}{subsection.2.4.6}%
+\contentsline {section}{\numberline {2.5}Summary}{28}{section.2.5}%
+\contentsline {chapter}{\chapternumberline {3}RESEARCH METHODOLOGY}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Framework}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Preliminary Study}{34}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Problem Identification}{34}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Domains and Technique Understanding}{35}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Dyslexia}{35}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Machine Learning}{35}{subsubsection.3.2.2.2}%
+\contentsline {section}{\numberline {3.3}Knowledge Acquisition}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Data Collection}{37}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Data Pre-processing}{38}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Model Development}{40}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Model Testing and Evaluation}{45}{section.3.7}%
+\contentsline {section}{\numberline {3.8}System Development}{46}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Documentation}{48}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Summary}{49}{section.3.10}%
+\contentsline {chapter}{\chapternumberline {4}RESULTS AND FINDINGS}{50}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Training performance}{50}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Training results}{50}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Training accuracy}{51}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Training loss}{52}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Evaluation result}{53}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}\texttt {model.evaluate}}{53}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Confusion Matrix}{53}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Classification Report}{54}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Summary}{56}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}CONCLUSION AND RECOMMENDATIONS}{57}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Purpose of the Study}{57}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}First Objective}{57}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Second Objective}{57}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Third Objective}{58}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Strengths and Limitations}{58}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Strengths}{58}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Limitations}{58}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Recommendation and Future Works}{59}{section.5.3}%
+\contentsline {chapter}{REFERENCES}{60}{section*.25}%
+\contentsline {chapter}{APPENDICES}{67}{section*.26}%
+\global \c@tocdepth -1\relax 
+\vspace {1.7cm}
+\contentsline {appendix}{\chapternumberline {A}GANTT CHART}{68}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}THE DATA}{70}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {C}THE SYSTEM}{71}{appendix.C}%

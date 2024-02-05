@@ -1,0 +1,45 @@
+\chapter{CONCLUSION AND RECOMMENDATIONS}
+\label{ch:conclusion}
+
+The chapter presents the conclusion of the study and the recommendations for future works. This chapter goes through the objectives of the study, its strengths and limitations, and recommendations for future works.
+
+\section{Purpose of the Study}
+
+The purpose of the study is to develop a machine learning model that can be applied in a system, to detect potential dyslexia through handwriting images. The approach taken was using the LeNet-5 model. 
+
+\subsection{First Objective}
+
+The first objective in this study is to identify the features of dyslexia handwriting in images. This is achieved by performing a thorough literature review on the features of dyslexia handwriting, which spans from various journals, research articles, and books published by academics and researchers all over the world. The information regarding the features of dyslexia handwriting is then used to develop a machine learning model that can be used to detect dyslexia handwriting in images, which was documented in the second chapter of this report. Then, the dataset is acquired through Kaggle and pre-processed to be applied in the machine learning model. 
+
+\subsection{Second Objective}
+
+The second objective of the study is to develop a machine learning model that distinguish dyslexic or non-dyslexic samples. This is achieved by using a modified version of the LeNet-5 model, which is a convolutional neural network model that is used to classify handwritten digits. The model is modified to be able to classify dyslexic or non-dyslexic samples. The model is then trained using the dataset that was pre-processed in the previous objective. 
+
+
+\subsection{Third Objective}
+
+The third objective of the study is to evaluate the performance of the machine learning model. This is achieved by evaluating the performance of the model using the accuracy, precision, recall, and F1-score metrics. The model is also evaluated using the confusion matrix. The model is also tested using a sample of the dataset that was not used in the training process. However, the model is found to be overfitting, which can be related to the publicly available dataset, which is unoptimized for the model.
+
+\section{Strengths and Limitations}
+
+In the study, there has been its strengths and limitations. Its discovery is detrimental to the study, as it indicates that the study is properly conducted, hence revealing areas of the study that could be further imrproved in the future.
+
+\subsection{Strengths}
+
+One of the strengths of this study is the development of the modified LeNet-5 model. Slight modifications made to the model has allowed it to be able to train the model to classify dyslexic or non-dyslexic samples at a high accuracy, reaching 98.11\% accuracy. Furthermore, the loss of the model is impressively low, achieving a loss of 4.21\%. This indicates that the model is able to classify the samples with a high accuracy, and the model is able to learn the features of dyslexia handwriting.
+
+Besides that, the model is presented in an accessible manner. The model is utilized in a Streamlit application, which is a web application framework that is used to develop machine learning applications. Streamlit has allowed the project to be deployed anywhere, and it is compatible with most if not all devices. This allows the study to be accessible to everyone, and it can be used to detect dyslexia in children.
+
+\subsection{Limitations}
+
+There are various limitations found in this study. The first of many telling signs were the off-putting validation scores. The validation scores were significantly lower than the training scores, which indicates that the model is overfitting. This is a problem as the model is not able to generalize well, and will not be able to classify new samples that it has not seen before. This is a problem that is commonly found in machine learning models, and is a problem that is difficult to solve. The validation accuracy is reported to be 10.24\% off the training accuracy, while the validation loss is reported to be off by a significant 35.9\%. 
+
+Besides that, the evaluation scores for the model has reported rather worrying scores, where the classification report has reported only 53\% accuracy. This all goes back to the issue of overfitting, where the model is not able to generalize well. 
+
+\section{Recommendation and Future Works}
+
+In terms of recommendations, the first recommendation is to acquire a better dataset. The dataset used in this study is a publicly available dataset, which is not optimized for the model. This is evident in the overfitting of the model, where the model is not able to generalize well. 
+
+Besides that, the dataset used in this study is also not balanced, where the number of dyslexic samples is significantly lower than the number of non-dyslexic samples. This is a problem as the model will be biased towards the non-dyslexic samples, and will not be able to classify dyslexic samples well. Besides that, the model can be further optimized, where the model can be trained using different optimizers, different loss functions, and also different activation functions.
+
+Once the model is optimized, the model can be deployed in a system, where the system can be used to detect dyslexia in children. The system can be used to detect dyslexia in children at a young age, where the system can be used to detect dyslexia in children before they enter primary school. This is important as dyslexia can be treated at a young age, where the children can be taught to read and write properly. This will allow the children to be able to read and write properly, and will allow them to be able to perform well in school.

@@ -1,0 +1,22 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces LeNet-5 architecture}}{20}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Methodology Phases}}{30}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Kaggle logo}}{37}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tree structure of the dataset}}{38}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Tree structure of the modified dataset}}{39}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces TensorFlow logo}}{40}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Modified LeNet-5 architecture}}{42}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces matplotlib logo}}{45}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Streamlit logo}}{46}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Markdown logo}}{46}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces LaTeX logo}}{48}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Graph accuracy and loss plot of the LeNet-5 model}}{51}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Graph accuracy plot of the LeNet-5 model}}{51}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Graph loss plot of the LeNet-5 model}}{52}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion matrix of the LeNet-5 model}}{53}{figure.caption.23}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Gantt Chart}}{69}{figure.caption.27}%
+\contentsline {figure}{\numberline {C.1}{\ignorespaces The homepage of the Streamlit web application.}}{71}{figure.caption.30}%
+\contentsline {figure}{\numberline {C.2}{\ignorespaces The about project page of the Streamlit web application.}}{72}{figure.caption.31}%
+\contentsline {figure}{\numberline {C.3}{\ignorespaces The findings page of the Streamlit web application.}}{72}{figure.caption.32}%
+\contentsline {figure}{\numberline {C.4}{\ignorespaces The demonstration page of the Streamlit web application before running the model.}}{73}{figure.caption.33}%
+\contentsline {figure}{\numberline {C.5}{\ignorespaces The demonstration page of the Streamlit web application after running the model.}}{73}{figure.caption.34}%

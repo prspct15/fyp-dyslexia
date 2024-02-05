@@ -1,0 +1,82 @@
+\chapter{GANTT CHART}
+\label{app:system}
+
+A Gantt chart visualizing the flow of the entire study was made, based on the phases of the research, as shown in the figure below:
+
+\newpage
+\thispagestyle{empty}
+\begin{landscape}
+
+\begin{figure}[h]
+    \begin{center}
+    
+    \begin{ganttchart}[y unit title=0.7cm,
+    y unit chart=0.5cm,
+    vgrid,hgrid, 
+    title label anchor/.style={below=-1.6ex},
+    title left shift=.05,
+    title right shift=-.05,
+    title height=1,
+    progress label text={},
+    bar height=0.7,
+    group right shift=0,
+    group top shift=.6,
+    group height=.3]{1}{28}
+    %labels
+    \gantttitle{Semester 5}{14}
+    \gantttitle{Semester 6}{14}\\
+    \gantttitle{1}{1} 
+    \gantttitle{2}{1} 
+    \gantttitle{3}{1} 
+    \gantttitle{4}{1} 
+    \gantttitle{5}{1} 
+    \gantttitle{6}{1} 
+    \gantttitle{7}{1}
+    \gantttitle{8}{1}
+    \gantttitle{9}{1}
+    \gantttitle{10}{1}
+    \gantttitle{11}{1}
+    \gantttitle{12}{1}
+    \gantttitle{13}{1}
+    \gantttitle{14}{1}
+    \gantttitle{1}{1} 
+    \gantttitle{2}{1} 
+    \gantttitle{3}{1} 
+    \gantttitle{4}{1} 
+    \gantttitle{5}{1} 
+    \gantttitle{6}{1} 
+    \gantttitle{7}{1}
+    \gantttitle{8}{1}
+    \gantttitle{9}{1}
+    \gantttitle{10}{1}
+    \gantttitle{11}{1}
+    \gantttitle{12}{1}
+    \gantttitle{13}{1}
+    \gantttitle{14}{1}
+    \\
+    %tasks
+    \ganttbar{Preliminary Study}{1}{5} \\
+    \ganttbar{Knowledge Acquisition}{6}{14} \\
+    \ganttbar{Data Collection}{15}{15} \\
+    \ganttbar{Data Pre-processing}{16}{17} \\
+    \ganttbar{Model Development}{18}{22} \\
+    \ganttbar{Model Testing and Evaluation}{23}{25} \\
+    \ganttbar{System Development}{26}{28}\\
+    \ganttbar{Documentation}{1}{28}
+    
+    % %relations 
+    % \ganttlink{elem0}{elem1} 
+    % \ganttlink{elem0}{elem3} 
+    % \ganttlink{elem1}{elem2} 
+    % \ganttlink{elem3}{elem4} 
+    % \ganttlink{elem1}{elem5} 
+    % \ganttlink{elem3}{elem5} 
+    % \ganttlink{elem2}{elem6} 
+    % \ganttlink{elem3}{elem6} 
+    \end{ganttchart}
+    \end{center}
+    \caption{Gantt Chart}
+    \label{ganttchart}
+
+\end{figure}
+\end{landscape}
